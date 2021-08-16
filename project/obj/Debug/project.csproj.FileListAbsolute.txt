@@ -1,0 +1,31 @@
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project\project\bin\Debug\project.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project\project\bin\Debug\project.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project\project\bin\Debug\project.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project\project\obj\Debug\project.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project\project\obj\Debug\project.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project - Copy\project\bin\Debug\project.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project - Copy\project\obj\Debug\project.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project - Copy\project\obj\Debug\project.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project - Copy\project\bin\Debug\project.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project - Copy\project\bin\Debug\project.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project - Copy\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project final\project\bin\Debug\project.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project final\project\obj\Debug\project.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project final\project\obj\Debug\project.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project final\project\bin\Debug\project.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project final\project\bin\Debug\project.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project final\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project final - Copy\project\bin\Debug\project.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project final - Copy\project\obj\Debug\project.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project final - Copy\project\obj\Debug\project.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project final - Copy\project\bin\Debug\project.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project final - Copy\project\bin\Debug\project.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\project final - Copy\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\student management\project\bin\Debug\project.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\student management\project\obj\Debug\project.exe
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\student management\project\obj\Debug\project.pdb
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\student management\project\bin\Debug\project.exe
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\student management\project\bin\Debug\project.pdb
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\student management\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\C# projects\student management\project\obj\Debug\project.csproj.CoreCompileInputs.cache
